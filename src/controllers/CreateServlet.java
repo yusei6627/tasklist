@@ -16,7 +16,7 @@ import models.Message;
 import models.validators.MessageValidator;
 import utils.DBUtil;
 
-//コメント
+
 
 /**
  * Servlet implementation class CreateServlet
